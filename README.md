@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Home of privacy-centric alternatives to the big five
 
-You can use the [editor on GitHub](https://github.com/big-five-alternatives/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The goal of this repository, is to have a reasonable alternatives for products provided by the big five tech companies.
+The repository will include a list of products ( Gmail, Google Maps, AWS, etc.) each of which will have a list of alternatives with instructions on how to setup if necessary.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you have any suggestions or modifications, please make a github issue here.
 
-### Markdown
+And yes, I realize the irony that this is hosted on Github (ie: Microsoft), but this is not about where BFA is hosted, is it?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Browsers
 
-```markdown
-Syntax highlighted code block
+- Google: Chrome
+- Apple: Safari
+- Microsoft: Edge
 
-# Header 1
-## Header 2
-### Header 3
+#### Alternatives
 
-- Bulleted
-- List
+- (Firefox)[https://www.mozilla.org/firefox/]
+- (Brave)[https://brave.com/]
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### EMail
 
-[Link](url) and ![Image](src)
-```
+- Google: Gmail
+- Apple: iMail
+- Microsoft: Live/hotmail
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Alternatives
 
-### Jekyll Themes
+ - (docker-mailserver)[https://github.com/tomav/docker-mailserver]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/big-five-alternatives/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
