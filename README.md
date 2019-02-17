@@ -15,8 +15,9 @@ And yes, I realize the irony that this is hosted on Github (ie: Microsoft), but 
 
 #### Alternatives
 
+- [Brave](https://brave.com/) <--- Favorite
 - [Firefox](https://www.mozilla.org/firefox/)
-- [Brave](https://brave.com/)
+
 
 
 ### EMail
@@ -27,8 +28,9 @@ And yes, I realize the irony that this is hosted on Github (ie: Microsoft), but 
 
 #### Alternatives
 
+ - [Mailcow](https://mailcow.github.io/) <--- Favorite, dockerized, easy to setup, looks good
  - [docker-mailserver](https://github.com/tomav/docker-mailserver)
-
+ 
 
 
 
