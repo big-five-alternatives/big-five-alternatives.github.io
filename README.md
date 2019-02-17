@@ -28,7 +28,7 @@ And yes, I realize the irony that this is hosted on Github (ie: Microsoft), but 
 
 #### Alternatives
 
- - [Mailcow](https://mailcow.github.io/) <--- Favorite, dockerized, easy to setup, looks good
+ - [Mailcow](https://github.com/mailcow/mailcow-dockerized/) <--- Favorite, dockerized, easy to setup, looks good
  - [docker-mailserver](https://github.com/tomav/docker-mailserver)
  
 
